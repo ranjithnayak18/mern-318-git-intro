@@ -1,0 +1,45 @@
+.title{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-center{
+    text-align: center;
+}
+
+/* css box model  */
+
+.card{
+     border: 1px solid lightgray;
+    /* background-color: #f8edf2; */
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.user{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.btn{
+    background-color:rgb(14, 13, 13);
+    border: none;
+    color: #fff;
+    padding: 16px;
+    border-radius: 8px;
+}
+
+.input{
+    width: 100%;
+    margin-bottom: 10px;
+    border: 1px solid lightgray;
+    padding: 16px;
+    box-sizing: border-box;
+    border-radius: 8px;
+    font-size: 16px;
+}
